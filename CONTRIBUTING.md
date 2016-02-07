@@ -101,6 +101,12 @@ By contributing you agree to respect the Code of Conduct of this repository.
 
     - https://github.com/douglascrockford/JSLint
 
+    - https://github.com/airbnb/javascript
+
+- PHP
+
+    - PSR 1, 2, 4, and 5: http://www.php-fig.org/psr/
+
 - run `grunt test` or `npm test` or `composer test` to ensure your changes follow our coding standards and pass our existing tests
 
 
