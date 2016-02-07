@@ -41,7 +41,7 @@
 
 - requests for help are welcome in the issue tracker
 
-- requests for help belong on Stack Overflow, Slack or IRC
+- requests for help belong on Stack Overflow, Gitter, Slack or IRC
 
 
 ## Pull Requests / Merge Requests
@@ -54,9 +54,47 @@
 
 - please provide new tests as appropriate
 
+- Pull / Merge Request descriptions should include a change summary that matches the [Keep a CHANGELOG](http://keepachangelog.com/) format
+
+- this project uses the [Git Flow](http://nvie.com/posts/a-successful-git-branching-model/) branching scheme, so changes should target the "develop" branch
+
+- this project uses the [GitHub Flow](https://guides.github.com/introduction/flow/) branching scheme, so changes should target the "master" branch
+
+- this project uses the [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow/) branching scheme, so changes should target the "master" branch
+
+- this project uses Atlassian's [Simple Git](http://blogs.atlassian.com/2014/01/simple-git-workflow-simple/) branching scheme, so changes should target the "master" branch
+
+- please squash your commits if there is more than one
+
+- feel free to submit un-squashed commits provided tests pass for all commits
+
+- feel free to submit un-squashed commits
+
 
 ## Code Style and Code Quality
 
 - adhere to our code style guides
 
 - run `grunt test` or `npm test` or `composer test` to ensure your changes follow our coding standards and pass our existing tests
+
+
+## Version Control
+
+- this project adheres to [Semantic Versioning](http://semver.org/)
+
+    - ideally, highlight when work would change the API surface in ways that break compatibility with existing consumers
+
+- compose meaningful version control comments: http://alistapart.com/article/the-art-of-the-commit
+
+
+## Development
+
+
+### Prerequisites
+
+__coming soon__
+
+
+### Gettings Started
+
+__coming soon__
