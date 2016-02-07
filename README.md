@@ -5,7 +5,7 @@ http://keepachangelog.com/ but for CONTRIBUTING.md
 
 ## What is this?
 
-The focus of this project is [CONTRIBUTING.md](CONTRIBUTING.md), which is a template that you can use for your own projects. I looked at [the most starred projects on GitHub](https://github.com/stars?direction=desc&sort=stars) to collect ideas for this template.
+The focus of this project is [CONTRIBUTING.md](CONTRIBUTING.md), which is a template that you can use for your own projects. I looked at [the most starred projects on GitHub](https://github.com/search?q=stars:%3E1&s=stars&type=Repositories) to collect ideas for this template.
 
 The terrific [Keep a CHANGELOG](http://keepachangelog.com/) movement is the primary inspiration.
 
