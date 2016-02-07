@@ -7,11 +7,13 @@ By contributing you agree to respect the Code of Conduct of this repository.
 
 ## Issue Tracker
 
-- before submitting a new issue, please check for:
+- before submitting a new issue, please:
 
-    - existing related issues
+    - check for existing related issues
 
-    - the issue tracker for a specific upstream project that may be more appropriate
+    - check the issue tracker for a specific upstream project that may be more appropriate
+
+    - check against supported versions of this project (i.e. the latest)
 
 - please comment with a "+1" to help vote for issues that are important to you
 
