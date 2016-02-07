@@ -56,7 +56,9 @@ By contributing you agree to respect the Code of Conduct of this repository.
 
 - please do not submit code for review and inclusion here
 
-- please provide new tests as appropriate
+- provide tests for all features or bug fixes
+
+- provide documentation for all public API methods
 
 - Pull / Merge Request descriptions should include a change summary that matches the [Keep a CHANGELOG](http://keepachangelog.com/) format
 
@@ -78,6 +80,22 @@ By contributing you agree to respect the Code of Conduct of this repository.
 ## Code Style and Code Quality
 
 - adhere to our code style guides
+
+- CSS
+
+    - https://github.com/CSSLint/csslint
+
+- JavaScript
+
+    - https://github.com/feross/standard
+
+        - https://github.com/Flet/semistandard
+
+    - https://docs.npmjs.com/misc/coding-style
+
+    - http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+    - https://github.com/douglascrockford/JSLint
 
 - run `grunt test` or `npm test` or `composer test` to ensure your changes follow our coding standards and pass our existing tests
 
