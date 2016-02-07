@@ -1,5 +1,9 @@
 # Contributing
 
+By contributing you agree to the [LICENSE](LICENSE) of this repository.
+
+By contributing you agree to respect the Code of Conduct of this repository.
+
 
 ## Issue Tracker
 
