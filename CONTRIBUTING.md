@@ -21,6 +21,8 @@ By contributing you agree to respect the [Code of Conduct](http://todogroup.org/
 
 - please keep discussions on-topic, and respect the opinions of others
 
+- please report urgent issues, or issues with confidential details, via our commercial support channels
+
 
 ### Security Vulnerabilities
 
@@ -49,12 +51,18 @@ By contributing you agree to respect the [Code of Conduct](http://todogroup.org/
 
 - requests for help belong on Stack Overflow, Gitter, Slack or IRC
 
+- please submit requests for help via our commercial support channels
+
+- requests for help in the issue tracker receive lower priority than commercial support requests
+
 
 ## Pull Requests / Merge Requests
 
 - please explicitly sign our Contributor License Agreement before submitting code for review and inclusion
 
 - by submitting code for review and inclusion, we assume you have read and agree to our Contributor License Agreement
+
+- **IMPORTANT**: by submitting a patch, you agree to allow the project owners to license your work under our this [LICENSE](LICENSE)
 
 - please do not submit code for review and inclusion here
 
@@ -127,6 +135,6 @@ By contributing you agree to respect the [Code of Conduct](http://todogroup.org/
 __coming soon__
 
 
-### Gettings Started
+### Getting Started
 
 __coming soon__
