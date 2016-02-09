@@ -91,9 +91,9 @@ By contributing you agree to respect the Code of Conduct of this repository.
 
 - JavaScript
 
-    - https://github.com/feross/standard
+    - [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
-        - https://github.com/Flet/semistandard
+        - [![js-semistandard-style](https://cdn.rawgit.com/flet/semistandard/master/badge.svg)](https://github.com/Flet/semistandard)
 
     - https://docs.npmjs.com/misc/coding-style
 
